@@ -20,4 +20,4 @@ studies. </br>
 
 <h3>Result</h3>
 
-![Result](https://ibb.co/ck1BqJK)
+![Result](https://www.linkpicture.com/q/Evaluation_Results.jpg)
