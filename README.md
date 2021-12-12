@@ -20,4 +20,4 @@ studies. </br>
 
 <h3>Result</h3>
 
-![alt text](https://drive.google.com/file/d/1WcTG0Ma1rycUwLJOtcnXqt1gIZcIatzo/view?usp=sharing)
+![Result](https://ibb.co/ck1BqJK)
