@@ -8,7 +8,7 @@ through various texts on various online platforms, which we can also refer to as
 emotions. And the information included in these consumers’ feelings is crucial.
 As a result, language has a wide range of uses, including constructing empathetic
 chatbots to identify harmful online conduct, product evaluations, and artificial
-intelligence (AI) to grasp the emotions portrayed in language. As a result, he has
+intelligence (AI) to grasp the emotions portrayed in language. As a result,we have
 chosen to identify the emotions in your work and rate it on a level of <strong>27</strong> emotions.We
 employed a machine learning method for this. We employed  <strong> Multinomial Naive
 Bayes, Linear SVC, SGD Classifier, Decision Tree, Random Forest, and Multilayer
